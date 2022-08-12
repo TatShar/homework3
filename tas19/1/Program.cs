@@ -1,6 +1,7 @@
 ﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
-Console.Write("input five-digit number");
-int num = int.Parse(Console.ReadLine());
- int num1 = {num/100000: f1};
- Consol.WriteLine(num1);
+//Console.Write("input five-digit number");
+//int num = int.Parse(Console.ReadLine());
+ //int num1 = {num/100000: f1};
+ //Consol.WriteLine(num1);
+// хотела решить через деление-округление, но не разобралась как писать округдение, поэтому не зазитывайте в оценку. Там есть другой вариант этой задачи в папке 19
