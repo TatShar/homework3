@@ -2,5 +2,5 @@
 
 Console.Write("input five-digit number");
 int num = int.Parse(Console.ReadLine());
- int num1 = {num/100000:f1};
+ int num1 = {num/100000: f1};
  Consol.WriteLine(num1);
